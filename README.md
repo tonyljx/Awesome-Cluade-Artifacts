@@ -26,6 +26,42 @@ We encourage you to share your most interesting, useful, or creative Claude Arti
 4. **Share the artifact**: Paste the content of your artifact into the issue body. Use appropriate formatting (code blocks, etc.) for better readability.
 5. **Add labels**: Tag your issue with relevant labels to help others find it easily.
 
+# Claude Artifacts
+
+## Tool
+
+| Title | Description | URL | User | Created At |
+|-------|-------------|-----|------|------------|
+| Job search artifact | I created a job search artifact in Claude, which is a kind of assistant/CRM, and you can use and remix it here: | [View](https://claude.site/artifacts/f829f1ea-a5f1-4459-b447-975fb39d0c19) | [CarolMonroe](https://x.com/CarolMonroe/status/1810723589726818386) | 2024-07-09 |
+
+## Lifestyle
+
+| Title | Description | URL | User | Created At |
+|-------|-------------|-----|------|------------|
+| Snake game | I created the snake game below using AI that is also played by an AI. Claude Sonnet 3.5 is magic. Test it using this link and remix it. Let's see if we can make the AI win it! | [View](https://t.co/5pFX8M5mou) | [mmnopqrs](https://x.com/mmnopqrs/status/1810744235114779083) | 2024-07-09 |
+
+## Game
+
+| Title | Description | URL | User | Created At |
+|-------|-------------|-----|------|------------|
+| 3d game with physics | Here is a 3d game with physics I made in a few prompts with claude | [View](https://claude.site/artifacts/5dcd7214-289c-499f-9cf3-4ea6bf34eadb) | - | 2024-07-09 |
+| Worms-like game | Click to view it then you get a full-screen version of the app with the option to remix. BTW the game is completely unfinished. It kinda works but not very well. :-) | [View](https://t.co/QNEejBINUT) | [koltregaskes](https://x.com/koltregaskes/status/1810704328551735773) | 2024-07-09 |
+
+## Creative
+
+| Title | Description | URL | User | Created At |
+|-------|-------------|-----|------|------------|
+| A word cloud Generator | A word cloud Generator just input a url | [View](https://t.co/FftvUeLrqa) | [ekpodar](https://x.com/ekpodar/status/1810708749201420687) | 2024-07-09 |
+
+## Programming
+
+| Title | Description | URL | User | Created At |
+|-------|-------------|-----|------|------------|
+| EXAMPLE | Double pendulum physics simulator. If you change the initial angle you can switch between regular and chaotic motion. Give it a try! | [View](https://claude.site/artifacts/5a0d58eb-718b-4cf7-a047-d223940702a4) | [EducatingwithAI](https://x.com/EducatingwithAI/status/1810727247575441864) | 2024-07-09 |
+
+
+
+
 ## Guidelines
 
 - Ensure that the artifacts you share are your own and that you have the right to share them.
