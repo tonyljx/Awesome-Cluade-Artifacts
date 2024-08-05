@@ -63,6 +63,7 @@ We encourage you to share your most interesting, useful, or creative Claude Arti
 | Title | Description | URL | User | Created At |
 |-------|-------------|-----|------|------------|
 | A word cloud Generator | A word cloud Generator just input a url | [View](https://t.co/FftvUeLrqa) | [ekpodar](https://x.com/ekpodar/status/1810708749201420687) | 2024-07-09 |
+| Photo to 3D Video Effect | Create video effect in realtime | [View](https://claude.site/artifacts/258b3fdd-b4b6-4521-b408-973f7a56907a) | [puppe1990](https://github.com/puppe1990) | 2024-08-05 |
 
 ### Programming
 
